@@ -1,0 +1,11 @@
+M. Khishe, M.R. Mosavi,
+Chimp optimization algorithm,
+Expert Systems with Applications,
+Volume 149,
+2020,
+113338,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2020.113338.
+(http://www.sciencedirect.com/science/article/pii/S0957417420301639)
+Abstract: This paper proposes a novel metaheuristic algorithm called Chimp Optimization Algorithm (ChOA) inspired by the individual intelligence and sexual motivation of chimps in their group hunting, which is different from the other social predators. ChOA is designed to further alleviate the two problems of slow convergence speed and trapping in local optima in solving high-dimensional problems. In this paper, a mathematical model of diverse intelligence and sexual motivation of chimps is proposed. In this regard, four types of chimps entitled attacker, barrier, chaser, and driver are employed for simulating the diverse intelligence. Moreover, four main steps of hunting, i.e. driving, chasing, blocking, and attacking, are implemented. The proposed ChOA algorithm is evaluated in 3 main phases. First, a set of 30 mathematical benchmark functions is utilized to investigate various characteristics of ChOA. Secondly, ChOA was tested by 13 high-dimensional test problems. Finally, 10 real-world optimization problems were used to evaluate the performance of ChOA. The results are compared to several newly proposed meta-heuristic algorithms in terms of convergence speed, the probability of getting stuck in local minimums, and exploration, exploitation. Also, statistical tests were employed to investigate the significance of the results. The results indicate that the ChOA outperforms the other benchmark optimization algorithms.
+Keywords: Chimp; Mathematical model; Metaheuristic; Optimization
